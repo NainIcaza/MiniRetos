@@ -2,7 +2,7 @@
 
 import UIKit
 
-let a = 1...100
+let a = 0...100
 
 for i in a{
     if i % 5 == 0{
